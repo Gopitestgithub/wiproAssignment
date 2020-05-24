@@ -1,0 +1,162 @@
+[INFO ] 2020-05-14 00:02:24.318 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:02:27.963 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:02:30.514 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:04:06.610 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:04:10.392 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:04:12.997 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:05:29.187 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:05:32.876 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:05:35.478 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:11:22.117 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:11:26.285 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:11:28.941 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:13:06.820 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:13:10.739 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:13:13.448 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:15:41.962 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:15:45.912 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:15:48.835 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:17:06.909 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:17:10.681 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:17:13.326 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:39:28.915 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:39:33.098 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:39:36.060 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:41:54.241 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:41:58.701 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:42:01.646 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:42:59.285 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:43:03.469 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:43:06.368 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:44:54.029 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:44:58.152 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:45:01.108 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:46:49.835 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:46:53.931 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:46:56.871 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:52:19.867 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:52:24.205 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:52:27.269 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:56:07.149 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:56:11.473 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:56:14.559 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:56:22.065 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 00:56:22.067 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:56:25.291 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:56:34.454 [main] DriverFactory - Entered Date Of Birth
+[INFO ] 2020-05-14 00:56:35.179 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 00:56:35.181 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:56:38.357 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:56:46.910 [main] DriverFactory - Drag and Dropped the item
+[INFO ] 2020-05-14 00:56:46.933 [main] DriverFactory - Verified the text
+[INFO ] 2020-05-14 00:56:47.658 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 00:56:47.659 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:56:50.830 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:56:53.063 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:56:58.562 [main] DriverFactory - Entered the values from the excel
+[INFO ] 2020-05-14 00:56:58.721 [main] DriverFactory - Opened google link in the new tab
+[INFO ] 2020-05-14 00:56:58.879 [main] DriverFactory - Opened google link is here in the new tab
+[INFO ] 2020-05-14 00:56:59.043 [main] DriverFactory - Clicked on submit button
+[INFO ] 2020-05-14 00:56:59.728 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 00:56:59.729 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:57:02.933 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:57:05.137 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:57:11.843 [main] DriverFactory - Entered the details from the excel
+[INFO ] 2020-05-14 00:57:12.957 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 00:57:12.958 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:57:16.256 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:57:24.400 [main] DriverFactory - Item 1
+[INFO ] 2020-05-14 00:57:24.505 [main] DriverFactory - Item 2
+[INFO ] 2020-05-14 00:57:24.616 [main] DriverFactory - Item 3
+[INFO ] 2020-05-14 00:57:24.730 [main] DriverFactory - Item 4
+[INFO ] 2020-05-14 00:57:24.830 [main] DriverFactory - Item 5
+[INFO ] 2020-05-14 00:57:24.927 [main] DriverFactory - Item 6
+[INFO ] 2020-05-14 00:57:25.049 [main] DriverFactory - Item 7
+[INFO ] 2020-05-14 00:57:25.750 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:03:28.741 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:03:32.909 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:03:35.995 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:08:22.681 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:08:27.070 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:08:30.167 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:08:37.169 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:08:37.171 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:08:40.313 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:08:48.773 [main] DriverFactory - Entered Date Of Birth
+[INFO ] 2020-05-14 11:08:49.507 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:08:49.508 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:08:52.697 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:20:29.663 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:20:33.988 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:20:36.909 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:20:44.120 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:20:44.124 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:20:47.308 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:20:58.963 [main] DriverFactory - Entered Date Of Birth
+[INFO ] 2020-05-14 11:20:59.718 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:20:59.720 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:21:02.920 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:21:11.189 [main] DriverFactory - Drag and Dropped the item
+[INFO ] 2020-05-14 11:21:11.210 [main] DriverFactory - Verified the text
+[INFO ] 2020-05-14 11:21:11.924 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:21:11.927 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:21:15.143 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:21:17.376 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:21:23.217 [main] DriverFactory - Entered the values from the excel
+[INFO ] 2020-05-14 11:21:23.442 [main] DriverFactory - Opened google link in the new tab
+[INFO ] 2020-05-14 11:21:23.589 [main] DriverFactory - Opened google link is here in the new tab
+[INFO ] 2020-05-14 11:21:23.804 [main] DriverFactory - Clicked on submit button
+[INFO ] 2020-05-14 11:21:24.501 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:21:24.502 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:21:27.915 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:21:30.115 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:21:39.236 [main] DriverFactory - Entered the details from the excel
+[INFO ] 2020-05-14 11:21:39.908 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:21:39.910 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:21:43.067 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:21:51.173 [main] DriverFactory - Item 1
+[INFO ] 2020-05-14 11:21:51.275 [main] DriverFactory - Item 2
+[INFO ] 2020-05-14 11:21:51.364 [main] DriverFactory - Item 3
+[INFO ] 2020-05-14 11:21:51.451 [main] DriverFactory - Item 4
+[INFO ] 2020-05-14 11:21:51.540 [main] DriverFactory - Item 5
+[INFO ] 2020-05-14 11:21:51.627 [main] DriverFactory - Item 6
+[INFO ] 2020-05-14 11:21:51.721 [main] DriverFactory - Item 7
+[INFO ] 2020-05-14 11:21:52.830 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:26:31.677 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:26:36.086 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:26:38.977 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:26:44.955 [main] DriverFactory - Test failed for RentalCar
+[INFO ] 2020-05-14 11:26:45.496 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-14 11:26:46.159 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:26:46.163 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:26:49.364 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:26:58.086 [main] DriverFactory - Entered Date Of Birth
+[INFO ] 2020-05-14 11:26:58.802 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:26:58.805 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:27:02.013 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:27:10.580 [main] DriverFactory - Drag and Dropped the item
+[INFO ] 2020-05-14 11:27:10.615 [main] DriverFactory - Verified the text
+[INFO ] 2020-05-14 11:27:11.338 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:27:11.339 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:27:14.571 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:27:16.786 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:27:22.222 [main] DriverFactory - Entered the values from the excel
+[INFO ] 2020-05-14 11:27:22.406 [main] DriverFactory - Opened google link in the new tab
+[INFO ] 2020-05-14 11:27:22.527 [main] DriverFactory - Opened google link is here in the new tab
+[INFO ] 2020-05-14 11:27:22.635 [main] DriverFactory - Clicked on submit button
+[INFO ] 2020-05-14 11:27:23.292 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:27:23.293 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:27:26.443 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:27:28.687 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:27:34.823 [main] DriverFactory - Entered the details from the excel
+[INFO ] 2020-05-14 11:27:35.495 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:27:35.496 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:27:38.678 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:27:46.937 [main] DriverFactory - Item 1
+[INFO ] 2020-05-14 11:27:47.054 [main] DriverFactory - Item 2
+[INFO ] 2020-05-14 11:27:47.156 [main] DriverFactory - Item 3
+[INFO ] 2020-05-14 11:27:47.242 [main] DriverFactory - Item 4
+[INFO ] 2020-05-14 11:27:47.328 [main] DriverFactory - Item 5
+[INFO ] 2020-05-14 11:27:47.438 [main] DriverFactory - Item 6
+[INFO ] 2020-05-14 11:27:47.527 [main] DriverFactory - Item 7
+[INFO ] 2020-05-14 11:27:48.188 [main] DriverFactory - Closing the driver

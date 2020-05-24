@@ -1,0 +1,625 @@
+[INFO ] 2020-05-20 14:29:34.939 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 14:29:38.871 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:29:38.871 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:29:43.989 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:29:45.241 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 14:29:46.321 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:29:46.428 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 14:29:47.775 [main] DriverFactory - Error message -> Email not registered
+[INFO ] 2020-05-20 14:29:48.056 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:29:48.164 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 14:29:50.389 [main] DriverFactory - Confirmation message displayed -> Password sent to mail id
+[INFO ] 2020-05-20 14:29:52.699 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:29:53.689 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 14:29:54.931 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:29:55.037 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 14:30:45.110 [main] DriverFactory - Test failed for forgot_pwd
+[INFO ] 2020-05-20 14:30:45.549 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 14:30:46.173 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:30:49.223 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:30:49.223 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:30:53.330 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:30:54.396 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:30:54.474 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:30:54.550 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:30:54.594 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:30:54.865 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:30:54.937 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:30:55.012 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:30:56.424 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:30:56.737 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:30:56.793 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:30:56.884 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:30:56.924 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:30:57.150 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:30:57.266 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:30:57.379 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:30:58.370 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:31:00.566 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:31:01.649 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:31:01.727 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:31:01.832 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:31:01.876 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:31:02.094 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:31:02.166 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:31:02.262 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:31:03.667 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:31:03.979 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:31:04.033 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:31:04.142 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:31:04.188 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:31:04.407 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:31:04.481 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:31:04.560 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:31:05.661 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:31:06.462 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:31:09.503 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:31:09.504 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:31:11.638 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 14:31:13.503 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:31:15.065 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:31:15.159 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:31:15.260 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:31:18.642 [main] DriverFactory - Landed on profile page
+[INFO ] 2020-05-20 14:31:18.752 [main] DriverFactory - User lands on the correct account
+[INFO ] 2020-05-20 14:31:19.368 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:31:22.407 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:31:22.407 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:31:24.556 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-20 14:31:25.843 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:31:26.891 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:31:27.008 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:31:27.134 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:31:30.388 [main] DriverFactory - Landed on profile page
+[INFO ] 2020-05-20 14:31:30.516 [main] DriverFactory - User lands on the correct account
+[INFO ] 2020-05-20 14:31:31.160 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:31:34.233 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:31:34.233 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:31:36.372 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 14:31:38.414 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 14:31:40.045 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 14:31:40.233 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 14:31:40.336 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 14:31:40.613 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 14:31:40.613 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 14:31:40.689 [main] DriverFactory - clicked on Register profile and navigating to second page for UK
+[INFO ] 2020-05-20 14:31:44.342 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 14:31:44.613 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-20 14:31:44.745 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 14:31:46.319 [main] DriverFactory - Sucessfully registered message is displayed in the page
+[INFO ] 2020-05-20 14:31:56.936 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:31:59.966 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:31:59.966 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:32:02.105 [main] DriverFactory - Fetching the details from excel file
+[INFO ] 2020-05-20 14:32:02.108 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-20 14:32:03.549 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 14:32:04.520 [main] DriverFactory - selected gender
+[INFO ] 2020-05-20 14:32:04.762 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 14:32:05.001 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 14:32:05.098 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 14:32:05.360 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 14:32:05.361 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 14:32:05.755 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 14:32:06.052 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-20 14:32:06.145 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 14:33:07.236 [main] DriverFactory - Test failed for valid_user_Registration
+[INFO ] 2020-05-20 14:33:07.566 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 14:33:08.187 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:33:11.272 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:33:11.272 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:33:13.409 [main] DriverFactory - Fetching the details from json file
+[INFO ] 2020-05-20 14:33:13.414 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-20 14:33:14.739 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 14:33:16.110 [main] DriverFactory - selected gender
+[INFO ] 2020-05-20 14:33:16.298 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 14:33:16.495 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 14:33:16.628 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 14:33:16.929 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 14:33:16.930 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 14:33:17.148 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 14:33:17.236 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 14:33:19.280 [main] DriverFactory - Sucessfully registered message is displayed in the page
+[INFO ] 2020-05-20 14:33:29.916 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:33:32.957 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:33:32.958 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:33:35.081 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 14:33:37.195 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 14:33:38.048 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 14:33:38.273 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 14:33:38.426 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 14:33:38.710 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 14:33:38.710 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 14:33:41.077 [main] DriverFactory - User already registered message is displayed in the page
+[INFO ] 2020-05-20 14:33:41.296 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 14:33:41.339 [main] DriverFactory - User already registered message is displayed in the page
+[INFO ] 2020-05-20 14:33:52.029 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:37:05.599 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 14:37:09.332 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:37:09.332 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:37:13.756 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:37:14.740 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 14:37:15.645 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:37:15.777 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 14:37:17.151 [main] DriverFactory - Error message -> Email not registered
+[INFO ] 2020-05-20 14:37:17.431 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:37:17.548 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 14:37:19.766 [main] DriverFactory - Confirmation message displayed -> Password sent to mail id
+[INFO ] 2020-05-20 14:37:21.620 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:37:22.477 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 14:37:23.352 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:37:23.465 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 14:38:13.675 [main] DriverFactory - Test failed for forgot_pwd
+[INFO ] 2020-05-20 14:38:14.088 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 14:38:14.748 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:38:17.785 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:38:17.785 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:38:50.562 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 14:38:54.118 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:38:54.118 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:38:58.106 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:38:59.184 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 14:39:00.164 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:39:00.312 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 14:39:01.706 [main] DriverFactory - Error message -> Email not registered
+[INFO ] 2020-05-20 14:39:01.979 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:39:02.099 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 14:39:04.155 [main] DriverFactory - Confirmation message displayed -> Password sent to mail id
+[INFO ] 2020-05-20 14:39:06.100 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:39:06.968 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 14:39:08.066 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:39:08.177 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 14:39:58.550 [main] DriverFactory - Test failed for forgot_pwd
+[INFO ] 2020-05-20 14:39:58.928 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 14:39:59.607 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:40:02.658 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:40:02.658 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:40:06.707 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:40:08.239 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:40:08.305 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:40:08.396 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:40:08.435 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:40:08.685 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:40:08.755 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:40:08.838 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:40:10.314 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:40:10.641 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:40:10.696 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:40:10.778 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:40:10.816 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:40:11.039 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:40:11.122 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:40:11.209 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:40:12.417 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:40:14.551 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:40:15.549 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:40:15.611 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:40:15.698 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:40:15.748 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:40:15.975 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:40:16.051 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:40:16.124 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:40:17.736 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:40:18.049 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:40:18.099 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:40:18.179 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:40:18.212 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:40:18.439 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:40:18.509 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:40:18.587 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:40:19.608 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 14:40:20.403 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:40:23.452 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:40:23.452 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:40:25.593 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 14:40:30.599 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:40:31.500 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:40:31.601 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:40:31.704 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:40:35.021 [main] DriverFactory - Landed on profile page
+[INFO ] 2020-05-20 14:40:35.137 [main] DriverFactory - User lands on the correct account
+[INFO ] 2020-05-20 14:40:35.776 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:40:38.805 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:40:38.806 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:40:40.946 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-20 14:40:42.298 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 14:40:43.644 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 14:40:43.741 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 14:40:43.844 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 14:40:47.110 [main] DriverFactory - Landed on profile page
+[INFO ] 2020-05-20 14:40:47.228 [main] DriverFactory - User lands on the correct account
+[INFO ] 2020-05-20 14:40:47.864 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:40:50.919 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:40:50.919 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:40:53.055 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 14:40:54.912 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 14:40:56.495 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 14:40:56.699 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 14:40:56.796 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 14:40:57.063 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 14:40:57.063 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 14:40:57.149 [main] DriverFactory - clicked on Register profile and navigating to second page for UK
+[INFO ] 2020-05-20 14:41:00.203 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 14:41:00.477 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-20 14:41:00.608 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 14:41:02.528 [main] DriverFactory - Sucessfully registered message is displayed in the page
+[INFO ] 2020-05-20 14:41:13.172 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:41:16.210 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:41:16.210 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:41:18.333 [main] DriverFactory - Fetching the details from excel file
+[INFO ] 2020-05-20 14:41:18.337 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-20 14:41:19.695 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 14:41:20.676 [main] DriverFactory - selected gender
+[INFO ] 2020-05-20 14:41:20.847 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 14:41:21.042 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 14:41:21.166 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 14:41:21.476 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 14:41:21.476 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 14:41:21.913 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 14:41:22.201 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-20 14:41:22.312 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 14:42:23.417 [main] DriverFactory - Test failed for valid_user_Registration
+[INFO ] 2020-05-20 14:42:23.732 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 14:42:24.390 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:42:27.418 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:42:27.418 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:42:29.540 [main] DriverFactory - Fetching the details from json file
+[INFO ] 2020-05-20 14:42:29.543 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-20 14:42:30.838 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 14:42:31.815 [main] DriverFactory - selected gender
+[INFO ] 2020-05-20 14:42:32.016 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 14:42:32.200 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 14:42:32.333 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 14:42:32.606 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 14:42:32.607 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 14:42:32.831 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 14:42:32.926 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 14:42:35.607 [main] DriverFactory - Sucessfully registered message is displayed in the page
+[INFO ] 2020-05-20 14:42:46.241 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 14:42:49.251 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 14:42:49.251 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 14:42:51.386 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 14:42:53.306 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 14:42:54.358 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 14:42:54.589 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 14:42:54.681 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 14:42:54.944 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 14:42:54.944 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 14:42:57.436 [main] DriverFactory - User already registered message is displayed in the page
+[INFO ] 2020-05-20 14:42:57.616 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 14:42:57.652 [main] DriverFactory - User already registered message is displayed in the page
+[INFO ] 2020-05-20 14:43:08.306 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 16:09:25.136 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 16:09:29.146 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 16:09:29.147 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 16:09:34.931 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 16:09:36.058 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 16:09:37.276 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:09:37.451 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 16:09:38.793 [main] DriverFactory - Error message -> Email not registered
+[INFO ] 2020-05-20 16:09:39.209 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:09:39.388 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 16:09:41.810 [main] DriverFactory - Confirmation message displayed -> Password sent to mail id
+[INFO ] 2020-05-20 16:09:44.561 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 16:09:45.707 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 16:09:47.292 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:09:47.446 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 16:10:37.769 [main] DriverFactory - Test failed for forgot_pwd
+[INFO ] 2020-05-20 16:10:38.261 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 16:10:38.962 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 16:10:42.096 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 16:10:42.097 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 16:10:46.615 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 16:10:48.020 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:10:48.147 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 16:10:48.282 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 16:10:48.347 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 16:10:48.817 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:10:48.971 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 16:10:49.103 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 16:10:50.633 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 16:10:51.225 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:10:51.338 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 16:10:51.470 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 16:10:51.557 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 16:10:52.015 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:10:52.178 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 16:10:52.314 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 16:10:53.598 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 16:10:56.610 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 16:10:58.026 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:10:58.157 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 16:10:58.320 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 16:10:58.389 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 16:10:58.819 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:10:58.965 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 16:10:59.084 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 16:11:00.615 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 16:11:01.167 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:11:01.255 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 16:11:01.390 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 16:11:01.463 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 16:11:01.849 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:11:02.015 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 16:11:02.144 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 16:11:03.551 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 16:11:04.511 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 16:11:07.721 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 16:11:07.721 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 16:11:09.858 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 16:11:12.262 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 16:11:13.646 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:11:13.819 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 16:11:14.000 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 16:11:17.713 [main] DriverFactory - Landed on profile page
+[INFO ] 2020-05-20 16:11:17.880 [main] DriverFactory - User lands on the correct account
+[INFO ] 2020-05-20 16:11:18.566 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 16:11:21.723 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 16:11:21.723 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 16:11:23.877 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-20 16:11:26.138 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 16:11:37.865 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 16:11:38.045 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 16:11:38.207 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 16:11:42.045 [main] DriverFactory - Landed on profile page
+[INFO ] 2020-05-20 16:11:42.216 [main] DriverFactory - User lands on the correct account
+[INFO ] 2020-05-20 16:11:42.912 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 16:11:46.093 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 16:11:46.093 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 16:11:48.242 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 16:11:50.757 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 16:11:52.671 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 16:11:53.015 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 16:11:53.167 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 16:11:53.665 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 16:11:53.666 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 16:11:53.791 [main] DriverFactory - clicked on Register profile and navigating to second page for UK
+[INFO ] 2020-05-20 16:11:57.559 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 16:11:58.078 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-20 16:11:58.234 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 16:12:01.031 [main] DriverFactory - Sucessfully registered message is displayed in the page
+[INFO ] 2020-05-20 16:12:11.728 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 16:12:14.832 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 16:12:14.832 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 16:12:16.965 [main] DriverFactory - Fetching the details from excel file
+[INFO ] 2020-05-20 16:12:16.970 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-20 16:12:18.986 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 16:12:20.450 [main] DriverFactory - selected gender
+[INFO ] 2020-05-20 16:12:20.824 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 16:12:21.219 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 16:12:21.384 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 16:12:21.969 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 16:12:21.969 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 16:12:22.677 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 16:12:23.208 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-20 16:12:23.372 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 16:13:24.577 [main] DriverFactory - Test failed for valid_user_Registration
+[INFO ] 2020-05-20 16:13:25.126 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 16:13:25.822 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 16:13:29.171 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 16:13:29.172 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 16:13:31.301 [main] DriverFactory - Fetching the details from json file
+[INFO ] 2020-05-20 16:13:31.305 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-20 16:13:33.526 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 16:13:34.790 [main] DriverFactory - selected gender
+[INFO ] 2020-05-20 16:13:35.171 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 16:13:35.544 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 16:13:35.740 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 16:13:36.340 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 16:13:36.341 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 16:13:36.806 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 16:13:36.994 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 16:13:40.277 [main] DriverFactory - Sucessfully registered message is displayed in the page
+[INFO ] 2020-05-20 16:13:50.969 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 16:13:54.149 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 16:13:54.149 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 16:13:56.299 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 16:13:58.498 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 16:14:00.669 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 16:14:01.001 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 16:14:01.153 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 16:14:01.651 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 16:14:01.651 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 16:14:04.937 [main] DriverFactory - User already registered message is displayed in the page
+[INFO ] 2020-05-20 16:14:05.237 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 16:14:05.305 [main] DriverFactory - User already registered message is displayed in the page
+[INFO ] 2020-05-20 16:14:16.015 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:51:59.648 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 23:52:03.635 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:52:03.635 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:52:09.431 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:52:10.820 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 23:52:12.046 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:52:12.222 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 23:52:13.743 [main] DriverFactory - Error message -> Email not registered
+[INFO ] 2020-05-20 23:52:14.190 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:52:14.383 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 23:52:16.778 [main] DriverFactory - Confirmation message displayed -> Password sent to mail id
+[INFO ] 2020-05-20 23:52:19.615 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:52:20.664 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 23:52:22.231 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:52:22.386 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 23:53:12.478 [main] DriverFactory - Test failed for forgot_pwd
+[INFO ] 2020-05-20 23:53:12.959 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 23:53:13.664 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:53:16.780 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:53:16.780 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:53:21.343 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:53:22.769 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:53:22.903 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:53:23.076 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:53:23.149 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:53:23.589 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:53:23.756 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:53:23.900 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:53:25.477 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:53:26.053 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:53:26.174 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:53:26.328 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:53:26.399 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:53:26.817 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:53:26.966 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:53:27.108 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:53:28.365 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:53:31.232 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:53:32.470 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:53:32.590 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:53:32.722 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:53:32.795 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:53:33.284 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:53:33.433 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:53:33.556 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:53:35.283 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:53:35.827 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:53:35.927 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:53:36.077 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:53:36.174 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:53:36.574 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:53:36.711 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:53:36.843 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:53:38.127 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:53:39.093 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:53:42.237 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:53:42.237 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:53:44.397 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 23:53:46.642 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:53:47.930 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:53:48.082 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:53:48.216 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:53:52.496 [main] DriverFactory - Landed on profile page
+[INFO ] 2020-05-20 23:53:52.681 [main] DriverFactory - User lands on the correct account
+[INFO ] 2020-05-20 23:53:53.377 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:53:56.528 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:53:56.528 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:53:58.665 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-20 23:54:00.944 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:54:13.595 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:54:13.765 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:54:13.945 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:54:17.533 [main] DriverFactory - Landed on profile page
+[INFO ] 2020-05-20 23:54:17.694 [main] DriverFactory - User lands on the correct account
+[INFO ] 2020-05-20 23:54:18.390 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:54:21.583 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:54:21.583 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:54:23.748 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 23:54:26.457 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 23:54:28.668 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 23:54:29.027 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 23:54:29.194 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 23:54:29.629 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 23:54:29.630 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 23:54:29.757 [main] DriverFactory - clicked on Register profile and navigating to second page for UK
+[INFO ] 2020-05-20 23:54:33.339 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 23:54:33.790 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-20 23:54:34.012 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 23:54:36.965 [main] DriverFactory - Sucessfully registered message is displayed in the page
+[INFO ] 2020-05-20 23:54:47.670 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:54:50.812 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:54:50.813 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:54:52.965 [main] DriverFactory - Fetching the details from excel file
+[INFO ] 2020-05-20 23:54:52.972 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-20 23:54:54.986 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 23:54:56.070 [main] DriverFactory - selected gender
+[INFO ] 2020-05-20 23:54:56.348 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 23:54:56.678 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 23:54:56.950 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 23:54:57.412 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 23:54:57.413 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 23:54:58.133 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 23:54:58.584 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-20 23:54:58.735 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 23:55:59.915 [main] DriverFactory - Test failed for valid_user_Registration
+[INFO ] 2020-05-20 23:56:00.411 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 23:56:01.142 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:56:04.280 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:56:04.281 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:56:06.425 [main] DriverFactory - Fetching the details from json file
+[INFO ] 2020-05-20 23:56:06.431 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-20 23:56:08.496 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 23:56:09.642 [main] DriverFactory - selected gender
+[INFO ] 2020-05-20 23:56:09.942 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 23:56:10.354 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 23:56:10.503 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 23:56:10.995 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 23:56:10.996 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 23:56:11.392 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-20 23:56:11.538 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 23:56:13.823 [main] DriverFactory - Sucessfully registered message is displayed in the page
+[INFO ] 2020-05-20 23:56:24.534 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:56:27.670 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:56:27.670 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:56:29.808 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 23:56:32.080 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-20 23:56:33.485 [main] DriverFactory - email entered
+[INFO ] 2020-05-20 23:56:33.815 [main] DriverFactory - password entered
+[INFO ] 2020-05-20 23:56:33.981 [main] DriverFactory - Verifying whether user is able to register without entering the DOB to validate mandatory field check
+[INFO ] 2020-05-20 23:56:34.462 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-20 23:56:34.462 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-20 23:56:38.118 [main] DriverFactory - User already registered message is displayed in the page
+[INFO ] 2020-05-20 23:56:38.387 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-20 23:56:38.462 [main] DriverFactory - User already registered message is displayed in the page
+[INFO ] 2020-05-20 23:56:49.173 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:58:06.342 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 23:58:10.298 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:58:10.298 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:58:14.901 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:58:16.113 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 23:58:17.359 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:58:17.591 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 23:58:18.821 [main] DriverFactory - Error message -> Email not registered
+[INFO ] 2020-05-20 23:58:19.259 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:58:19.458 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 23:58:21.869 [main] DriverFactory - Confirmation message displayed -> Password sent to mail id
+[INFO ] 2020-05-20 23:58:24.422 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:58:25.779 [main] DriverFactory - Need help in remembering password link clicked
+[INFO ] 2020-05-20 23:58:27.192 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:58:27.339 [main] DriverFactory - Clicked on next button
+[INFO ] 2020-05-20 23:59:17.482 [main] DriverFactory - Test failed for forgot_pwd
+[INFO ] 2020-05-20 23:59:18.034 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 23:59:18.748 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:59:21.896 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:59:21.896 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:59:26.359 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:59:27.497 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:59:27.788 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:59:27.950 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:59:28.031 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:59:28.488 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:59:28.641 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:59:28.780 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:59:30.328 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:59:30.871 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:59:30.988 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:59:31.151 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:59:31.235 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:59:31.684 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:59:31.844 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:59:31.988 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:59:33.451 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:59:36.180 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:59:37.418 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:59:37.534 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:59:37.698 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:59:37.780 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:59:38.241 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:59:38.377 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:59:38.506 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:59:40.032 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:59:40.563 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:59:40.671 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:59:40.832 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:59:40.904 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:59:41.296 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:59:41.444 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:59:41.580 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:59:42.877 [main] DriverFactory - Error message displayed
+[INFO ] 2020-05-20 23:59:43.854 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:59:46.999 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:59:46.999 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:59:49.153 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-20 23:59:51.402 [main] DriverFactory - clicked on signin link
+[INFO ] 2020-05-20 23:59:52.833 [main] DriverFactory - entered username
+[INFO ] 2020-05-20 23:59:53.001 [main] DriverFactory - entered password
+[INFO ] 2020-05-20 23:59:53.171 [main] DriverFactory - clicked on signin button
+[INFO ] 2020-05-20 23:59:56.864 [main] DriverFactory - Landed on profile page
+[INFO ] 2020-05-20 23:59:57.066 [main] DriverFactory - User lands on the correct account
+[INFO ] 2020-05-20 23:59:57.758 [main] DriverFactory - Closing browser

@@ -1,0 +1,283 @@
+[INFO ] 2020-05-20 11:46:35.614 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 11:46:35.631 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 11:46:37.835 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 11:46:41.506 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 11:46:42.313 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 11:46:42.541 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 11:46:46.542 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 11:46:48.411 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 11:47:04.211 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 11:51:06.318 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 11:51:10.280 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 11:51:10.280 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 11:51:12.455 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 11:51:14.837 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 11:51:15.455 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 11:51:15.682 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 11:51:19.682 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 11:51:20.198 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 11:51:20.436 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 11:51:35.537 [main] DriverFactory - Test failed for flightBooking
+[INFO ] 2020-05-20 11:51:36.113 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 11:51:36.817 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 12:25:33.550 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:25:33.554 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:25:35.748 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:25:38.546 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 12:25:38.887 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 12:25:39.161 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 12:25:43.161 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:25:43.566 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:25:43.794 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 12:25:59.599 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 12:26:45.673 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 12:26:49.673 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:26:49.673 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:26:51.892 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:26:55.064 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 12:26:55.835 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 12:26:56.071 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 12:27:00.073 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:27:01.339 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:27:01.568 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 12:27:16.608 [main] DriverFactory - Test failed for flightBooking
+[INFO ] 2020-05-20 12:27:17.179 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-20 12:27:17.898 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 12:31:02.258 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:31:02.264 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:31:04.450 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:31:07.748 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 12:31:08.615 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 12:31:08.888 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 12:31:12.888 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:31:14.162 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:31:14.364 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 12:34:32.583 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:34:32.590 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:34:34.812 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:34:35.488 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 12:35:26.265 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:35:26.270 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:35:28.441 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:35:29.108 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 12:36:27.855 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:36:27.861 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:36:30.061 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:36:33.529 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 12:36:34.643 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 12:36:34.914 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 12:36:38.915 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:36:40.045 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:36:40.220 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 12:45:52.812 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:45:52.817 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:45:55.032 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:45:57.921 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 12:45:58.305 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 12:45:58.927 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 12:46:02.928 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:46:04.163 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:46:04.401 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 12:46:20.228 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 12:48:52.734 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:48:52.738 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:48:54.906 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:48:58.060 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 12:48:59.094 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 12:48:59.402 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 12:49:03.402 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:49:04.699 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:49:05.165 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 12:49:05.319 [main] DriverFactory - Entered first 3 letters of the To city
+[INFO ] 2020-05-20 12:49:09.320 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:49:09.780 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:49:12.072 [main] DriverFactory - selected the date
+[INFO ] 2020-05-20 12:49:12.384 [main] DriverFactory - clicked on search button
+[INFO ] 2020-05-20 12:49:19.889 [main] DriverFactory - Itinery page is displayed
+[INFO ] 2020-05-20 12:49:20.171 [main] DriverFactory - Cheapest fare displayed
+[INFO ] 2020-05-20 12:49:20.557 [main] DriverFactory - clicked on the view fare
+[INFO ] 2020-05-20 12:49:20.903 [main] DriverFactory - clicked on the Book now
+[INFO ] 2020-05-20 12:49:20.918 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 12:49:36.903 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 12:50:41.976 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:50:41.981 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:50:44.198 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:50:51.781 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 12:50:52.438 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 12:50:52.709 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 12:50:56.709 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:50:58.026 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:50:58.443 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 12:50:58.593 [main] DriverFactory - Entered first 3 letters of the To city
+[INFO ] 2020-05-20 12:51:02.593 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:51:03.198 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:51:05.409 [main] DriverFactory - selected the date
+[INFO ] 2020-05-20 12:51:05.864 [main] DriverFactory - clicked on search button
+[INFO ] 2020-05-20 12:51:08.956 [main] DriverFactory - Itinery page is displayed
+[INFO ] 2020-05-20 12:51:09.249 [main] DriverFactory - Cheapest fare displayed
+[INFO ] 2020-05-20 12:51:09.614 [main] DriverFactory - clicked on the view fare
+[INFO ] 2020-05-20 12:51:10.197 [main] DriverFactory - clicked on the Book now
+[INFO ] 2020-05-20 12:51:10.229 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 12:51:10.275 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 12:51:13.031 [main] DriverFactory - Review page is displayed
+[INFO ] 2020-05-20 12:51:13.115 [main] DriverFactory - Dept city verified
+[INFO ] 2020-05-20 12:51:13.188 [main] DriverFactory - Arrival city verified
+[INFO ] 2020-05-20 12:51:13.289 [main] DriverFactory - Departure date verified
+[INFO ] 2020-05-20 12:51:14.126 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 12:51:47.797 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:51:47.802 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:51:49.982 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:51:52.590 [main] DriverFactory - Round Trip
+[INFO ] 2020-05-20 12:51:53.351 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 12:51:53.590 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 12:51:57.590 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:51:58.197 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:52:14.135 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 12:57:13.827 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 12:57:13.834 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 12:57:16.038 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 12:57:18.782 [main] DriverFactory - Round Trip
+[INFO ] 2020-05-20 12:57:19.850 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 12:57:20.134 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 12:57:24.135 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 12:57:24.500 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 12:57:40.386 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 13:00:04.052 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 13:00:04.057 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 13:00:06.222 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 13:00:08.748 [main] DriverFactory - Round Trip
+[INFO ] 2020-05-20 13:00:09.049 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 13:00:09.221 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 13:00:13.221 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 13:00:13.716 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 13:00:28.937 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 13:00:29.105 [main] DriverFactory - Entered first 3 letters of the To city
+[INFO ] 2020-05-20 13:00:33.106 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 13:00:50.703 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 13:03:26.429 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 13:03:26.433 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 13:03:28.605 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 13:03:32.735 [main] DriverFactory - Round Trip
+[INFO ] 2020-05-20 13:03:33.165 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 13:03:33.481 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 13:03:37.482 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 13:03:38.059 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 13:03:53.212 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 13:03:53.410 [main] DriverFactory - Entered first 3 letters of the To city
+[INFO ] 2020-05-20 13:03:57.410 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 13:03:57.819 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 13:04:00.820 [main] DriverFactory - selected the date
+[INFO ] 2020-05-20 13:04:02.399 [main] DriverFactory - selected the date
+[INFO ] 2020-05-20 13:04:02.814 [main] DriverFactory - clicked on search button
+[INFO ] 2020-05-20 13:04:05.603 [main] DriverFactory - Cheapest fare displayed
+[INFO ] 2020-05-20 13:04:07.004 [main] DriverFactory - clicked on the Book now
+[INFO ] 2020-05-20 13:04:07.034 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 13:04:07.070 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 13:04:09.150 [main] DriverFactory - Review page is displayed
+[INFO ] 2020-05-20 13:04:09.218 [main] DriverFactory - Dept city verified
+[INFO ] 2020-05-20 13:04:09.278 [main] DriverFactory - Arrival city verified
+[INFO ] 2020-05-20 13:04:09.340 [main] DriverFactory - Departure date verified
+[INFO ] 2020-05-20 13:04:10.431 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 13:04:44.170 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 13:04:44.176 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 13:04:46.389 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 13:04:49.577 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 13:04:50.184 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 13:04:50.419 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 13:04:54.419 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 13:04:55.400 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 13:04:55.764 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 13:04:55.892 [main] DriverFactory - Entered first 3 letters of the To city
+[INFO ] 2020-05-20 13:04:59.893 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 13:05:00.249 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 13:05:02.472 [main] DriverFactory - selected the date
+[INFO ] 2020-05-20 13:05:02.783 [main] DriverFactory - clicked on search button
+[INFO ] 2020-05-20 13:05:05.330 [main] DriverFactory - Itinery page is displayed
+[INFO ] 2020-05-20 13:05:05.564 [main] DriverFactory - Cheapest fare displayed
+[INFO ] 2020-05-20 13:05:05.834 [main] DriverFactory - clicked on the view fare
+[INFO ] 2020-05-20 13:05:06.275 [main] DriverFactory - clicked on the Book now
+[INFO ] 2020-05-20 13:05:06.304 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 13:05:06.339 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 13:05:08.435 [main] DriverFactory - Review page is displayed
+[INFO ] 2020-05-20 13:05:08.509 [main] DriverFactory - Dept city verified
+[INFO ] 2020-05-20 13:05:08.582 [main] DriverFactory - Arrival city verified
+[INFO ] 2020-05-20 13:05:08.655 [main] DriverFactory - Departure date verified
+[INFO ] 2020-05-20 13:05:09.456 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 13:06:13.044 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 13:06:17.039 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 13:06:17.039 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 13:06:19.235 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 13:06:21.802 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 13:06:22.170 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 13:06:22.409 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 13:06:26.410 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 13:06:26.745 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 13:06:27.177 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 13:06:27.302 [main] DriverFactory - Entered first 3 letters of the To city
+[INFO ] 2020-05-20 13:06:31.302 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 13:06:31.759 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 13:06:34.051 [main] DriverFactory - selected the date
+[INFO ] 2020-05-20 13:06:34.427 [main] DriverFactory - clicked on search button
+[INFO ] 2020-05-20 13:06:37.020 [main] DriverFactory - Itinery page is displayed
+[INFO ] 2020-05-20 13:06:37.231 [main] DriverFactory - Cheapest fare displayed
+[INFO ] 2020-05-20 13:06:37.619 [main] DriverFactory - clicked on the view fare
+[INFO ] 2020-05-20 13:06:38.092 [main] DriverFactory - clicked on the Book now
+[INFO ] 2020-05-20 13:06:38.131 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 13:06:38.175 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 13:06:40.915 [main] DriverFactory - Review page is displayed
+[INFO ] 2020-05-20 13:06:40.998 [main] DriverFactory - Dept city verified
+[INFO ] 2020-05-20 13:06:41.102 [main] DriverFactory - Arrival city verified
+[INFO ] 2020-05-20 13:06:41.181 [main] DriverFactory - Departure date verified
+[INFO ] 2020-05-20 13:06:41.977 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 16:14:53.341 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 16:14:57.454 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 16:14:57.454 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 16:14:59.649 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 16:15:02.465 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 16:15:03.459 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 16:15:03.773 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 16:15:07.773 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 16:15:08.162 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 16:15:08.620 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 16:15:08.782 [main] DriverFactory - Entered first 3 letters of the To city
+[INFO ] 2020-05-20 16:15:12.782 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 16:15:13.239 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 16:15:15.542 [main] DriverFactory - selected the date
+[INFO ] 2020-05-20 16:15:15.903 [main] DriverFactory - clicked on search button
+[INFO ] 2020-05-20 16:15:18.290 [main] DriverFactory - Itinery page is displayed
+[INFO ] 2020-05-20 16:15:18.514 [main] DriverFactory - Cheapest fare displayed
+[INFO ] 2020-05-20 16:15:18.800 [main] DriverFactory - clicked on the view fare
+[INFO ] 2020-05-20 16:15:19.398 [main] DriverFactory - clicked on the Book now
+[INFO ] 2020-05-20 16:15:19.431 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 16:15:19.472 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 16:15:21.578 [main] DriverFactory - Review page is displayed
+[INFO ] 2020-05-20 16:15:21.658 [main] DriverFactory - Dept city verified
+[INFO ] 2020-05-20 16:15:21.732 [main] DriverFactory - Arrival city verified
+[INFO ] 2020-05-20 16:15:21.809 [main] DriverFactory - Departure date verified
+[INFO ] 2020-05-20 16:15:22.594 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-20 23:57:06.995 [main] DriverFactory - Test execution starting
+[INFO ] 2020-05-20 23:57:10.998 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-20 23:57:10.998 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-20 23:57:13.175 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-20 23:57:15.939 [main] DriverFactory - Oneway Trip
+[INFO ] 2020-05-20 23:57:16.304 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-20 23:57:16.929 [main] DriverFactory - Entered first 3 letters of the from city
+[INFO ] 2020-05-20 23:57:20.929 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 23:57:21.406 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 23:57:21.923 [main] DriverFactory - Clicked on To location
+[INFO ] 2020-05-20 23:57:22.065 [main] DriverFactory - Entered first 3 letters of the To city
+[INFO ] 2020-05-20 23:57:26.066 [main] DriverFactory - Searching for the required city name from the suggestion
+[INFO ] 2020-05-20 23:57:26.623 [main] DriverFactory - selected the required city from the suggestion
+[INFO ] 2020-05-20 23:57:28.897 [main] DriverFactory - selected the date
+[INFO ] 2020-05-20 23:57:29.218 [main] DriverFactory - clicked on search button
+[INFO ] 2020-05-20 23:57:31.357 [main] DriverFactory - Itinery page is displayed
+[INFO ] 2020-05-20 23:57:31.787 [main] DriverFactory - Cheapest fare displayed
+[INFO ] 2020-05-20 23:57:32.145 [main] DriverFactory - clicked on the view fare
+[INFO ] 2020-05-20 23:57:32.737 [main] DriverFactory - clicked on the Book now
+[INFO ] 2020-05-20 23:57:32.772 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 23:57:32.812 [main] DriverFactory - switched to new window
+[INFO ] 2020-05-20 23:57:35.248 [main] DriverFactory - Review page is displayed
+[INFO ] 2020-05-20 23:57:35.329 [main] DriverFactory - Dept city verified
+[INFO ] 2020-05-20 23:57:35.428 [main] DriverFactory - Arrival city verified
+[INFO ] 2020-05-20 23:57:35.517 [main] DriverFactory - Departure date verified
+[INFO ] 2020-05-20 23:57:36.313 [main] DriverFactory - Closing browser

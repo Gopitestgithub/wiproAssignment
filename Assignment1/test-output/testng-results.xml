@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66278" started-at="2020-05-20T23:50:13 IST" finished-at="2020-05-20T23:51:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66278" started-at="2020-05-20T23:50:13 IST" finished-at="2020-05-20T23:51:19 IST">
+      <class name="SDETSelenium.Assignment1.TestScenarios">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="initializeBrowser" is-config="true" duration-ms="6338" started-at="2020-05-20T23:50:13 IST" finished-at="2020-05-20T23:50:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="RentalCar()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="RentalCar" duration-ms="10142" started-at="2020-05-20T23:50:19 IST" finished-at="2020-05-20T23:50:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RentalCar -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="tearDown" is-config="true" duration-ms="721" started-at="2020-05-20T23:50:29 IST" finished-at="2020-05-20T23:50:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="initializeBrowser" is-config="true" duration-ms="5277" started-at="2020-05-20T23:50:30 IST" finished-at="2020-05-20T23:50:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="datepick()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="datepick" duration-ms="3873" started-at="2020-05-20T23:50:35 IST" finished-at="2020-05-20T23:50:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datepick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="tearDown" is-config="true" duration-ms="696" started-at="2020-05-20T23:50:39 IST" finished-at="2020-05-20T23:50:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="initializeBrowser" is-config="true" duration-ms="5271" started-at="2020-05-20T23:50:40 IST" finished-at="2020-05-20T23:50:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="dropable()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="dropable" duration-ms="3820" started-at="2020-05-20T23:50:45 IST" finished-at="2020-05-20T23:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropable -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="tearDown" is-config="true" duration-ms="674" started-at="2020-05-20T23:50:49 IST" finished-at="2020-05-20T23:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="initializeBrowser" is-config="true" duration-ms="5279" started-at="2020-05-20T23:50:50 IST" finished-at="2020-05-20T23:50:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="htmlContactFormNavigation()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="htmlContactFormNavigation" duration-ms="3256" started-at="2020-05-20T23:50:55 IST" finished-at="2020-05-20T23:50:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- htmlContactFormNavigation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="tearDown" is-config="true" duration-ms="694" started-at="2020-05-20T23:50:58 IST" finished-at="2020-05-20T23:50:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="initializeBrowser" is-config="true" duration-ms="5349" started-at="2020-05-20T23:50:59 IST" finished-at="2020-05-20T23:51:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="selectMenu()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="selectMenu" duration-ms="4248" started-at="2020-05-20T23:51:04 IST" finished-at="2020-05-20T23:51:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMenu -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="tearDown" is-config="true" duration-ms="656" started-at="2020-05-20T23:51:08 IST" finished-at="2020-05-20T23:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="initializeBrowser" is-config="true" duration-ms="5259" started-at="2020-05-20T23:51:09 IST" finished-at="2020-05-20T23:51:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="selectablePageNavigation()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="selectablePageNavigation" duration-ms="3950" started-at="2020-05-20T23:51:14 IST" finished-at="2020-05-20T23:51:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectablePageNavigation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment1.TestScenarios@659499f1]" name="tearDown" is-config="true" duration-ms="693" started-at="2020-05-20T23:51:18 IST" finished-at="2020-05-20T23:51:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SDETSelenium.Assignment1.TestScenarios -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,92 @@
+[INFO ] 2020-05-18 16:29:22.228 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 16:29:22.233 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 16:29:24.426 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 16:30:26.305 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 19:06:04.881 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 19:06:04.887 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 19:06:07.121 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 19:06:11.244 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 19:07:09.092 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 19:07:09.099 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 19:07:11.308 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 19:07:14.072 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 19:07:14.853 [main] DriverFactory - Entered TVM
+[INFO ] 2020-05-18 19:07:15.586 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 19:07:39.497 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 19:07:39.503 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 19:07:41.695 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 19:07:44.376 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 19:07:44.949 [main] DriverFactory - Entered TVM
+[INFO ] 2020-05-18 19:07:55.741 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 19:09:44.342 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 19:09:44.347 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 19:09:46.553 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 19:09:49.182 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 19:09:49.561 [main] DriverFactory - Entered TVM
+[INFO ] 2020-05-18 19:10:00.300 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 19:13:00.982 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 19:13:00.986 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 19:13:03.150 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 19:13:06.145 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 19:13:06.613 [main] DriverFactory - Entered TVM
+[INFO ] 2020-05-18 19:13:17.370 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 19:58:39.216 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 19:58:39.221 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 19:58:41.402 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 19:58:43.887 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 19:58:44.662 [main] DriverFactory - Entered Tri
+[INFO ] 2020-05-18 19:58:55.958 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 20:11:43.489 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 20:11:43.494 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 20:11:45.678 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 20:11:48.371 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 20:11:48.653 [main] DriverFactory - Entered Tri
+[INFO ] 2020-05-18 20:11:49.406 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 21:57:28.464 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 21:57:28.469 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 21:57:30.644 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 21:57:35.558 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 21:57:36.040 [main] DriverFactory - Entered Tri
+[INFO ] 2020-05-18 21:57:36.848 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 22:01:57.798 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 22:01:57.805 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 22:01:59.994 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 22:02:03.127 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 22:02:03.439 [main] DriverFactory - Entered Tri
+[INFO ] 2020-05-18 22:02:10.198 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 22:02:35.823 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 22:02:35.829 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 22:02:38.020 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 22:02:40.641 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 22:02:41.187 [main] DriverFactory - Entered Tri
+[INFO ] 2020-05-18 22:02:48.655 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 22:03:14.390 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 22:03:14.398 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 22:03:16.572 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 22:03:19.453 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 22:03:19.829 [main] DriverFactory - Entered Tri
+[INFO ] 2020-05-18 22:03:26.821 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 22:03:56.996 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 22:03:57.001 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 22:03:59.212 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 22:04:01.713 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 22:04:02.533 [main] DriverFactory - Entered Tri
+[INFO ] 2020-05-18 22:04:09.866 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 22:06:03.046 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 22:06:03.051 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 22:06:05.241 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 22:06:07.867 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 22:06:08.432 [main] DriverFactory - Entered Tri
+[INFO ] 2020-05-18 22:06:19.682 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 22:07:01.182 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 22:07:01.188 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 22:07:03.376 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 22:07:08.039 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 22:07:08.412 [main] DriverFactory - Entered Tri
+[INFO ] 2020-05-18 22:07:19.398 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-18 22:07:47.434 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-18 22:07:47.439 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-18 22:07:49.608 [main] DriverFactory - Launched url: https://www.makemytrip.com
+[INFO ] 2020-05-18 22:07:52.474 [main] DriverFactory - Clicked on From location
+[INFO ] 2020-05-18 22:07:52.733 [main] DriverFactory - Entered Tri
+[INFO ] 2020-05-18 22:07:59.220 [main] DriverFactory - Closing browser

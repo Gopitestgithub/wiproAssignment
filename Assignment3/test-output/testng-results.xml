@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29329" started-at="2020-05-20T23:57:06 IST" finished-at="2020-05-20T23:57:36 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29329" started-at="2020-05-20T23:57:06 IST" finished-at="2020-05-20T23:57:36 IST">
+      <class name="SDETSelenium.Assignment3.MakeMyTrip_Test">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment3.MakeMyTrip_Test@47e2e487]" name="initializeBrowser" is-config="true" duration-ms="6102" started-at="2020-05-20T23:57:07 IST" finished-at="2020-05-20T23:57:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="flightBooking()[pri:0, instance:SDETSelenium.Assignment3.MakeMyTrip_Test@47e2e487]" name="flightBooking" duration-ms="22378" started-at="2020-05-20T23:57:13 IST" finished-at="2020-05-20T23:57:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightBooking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment3.MakeMyTrip_Test@47e2e487]" name="tearDown" is-config="true" duration-ms="786" started-at="2020-05-20T23:57:35 IST" finished-at="2020-05-20T23:57:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SDETSelenium.Assignment3.MakeMyTrip_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

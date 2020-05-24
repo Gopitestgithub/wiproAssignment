@@ -1,0 +1,182 @@
+[INFO ] 2020-05-16 11:32:59.744 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 11:32:59.759 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 11:33:01.918 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-16 11:33:05.835 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 11:33:07.127 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 11:33:07.523 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 11:33:08.284 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 11:33:08.465 [main] DriverFactory - clicked on Register profile and navigating to second page for UK
+[INFO ] 2020-05-16 11:33:12.355 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 11:33:12.907 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-16 11:33:13.100 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 11:33:13.983 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 11:33:17.227 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 11:33:17.227 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 11:33:19.360 [main] DriverFactory - Getting the details from excel file
+[INFO ] 2020-05-16 11:33:19.366 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-16 11:33:21.536 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 11:33:23.113 [main] DriverFactory - selected gender which is applicable only for Germany and Spain
+[INFO ] 2020-05-16 11:33:23.480 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 11:33:23.878 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 11:33:24.408 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 11:33:25.083 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 11:33:25.635 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-16 11:33:25.804 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 11:33:26.555 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 11:33:29.779 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 11:33:29.780 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 11:33:31.929 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-16 11:33:33.967 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 11:33:35.283 [main] DriverFactory - selected gender which is applicable only for Germany and Spain
+[INFO ] 2020-05-16 11:33:35.546 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 11:33:35.913 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 11:33:36.502 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 11:33:36.793 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 11:33:36.947 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 11:33:37.712 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 12:22:54.855 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 12:22:54.862 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 12:22:57.038 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-16 12:23:00.103 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 12:23:01.936 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 12:23:02.303 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 12:23:02.807 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 12:23:02.957 [main] DriverFactory - clicked on Register profile and navigating to second page for UK
+[INFO ] 2020-05-16 12:23:06.935 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 12:23:07.449 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-16 12:23:07.659 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 12:23:08.400 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 12:23:11.582 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 12:23:11.583 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 12:23:13.711 [main] DriverFactory - Getting the details from excel file
+[INFO ] 2020-05-16 12:23:13.717 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-16 12:23:16.078 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 12:23:17.329 [main] DriverFactory - selected gender which is applicable only for Germany and Spain
+[INFO ] 2020-05-16 12:23:17.608 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 12:23:17.977 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 12:23:18.467 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 12:23:19.189 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 12:23:19.695 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-16 12:23:19.870 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 12:23:20.570 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 12:23:23.727 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 12:23:23.728 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 12:23:25.905 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-16 12:23:28.319 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 12:23:29.509 [main] DriverFactory - selected gender which is applicable only for Germany and Spain
+[INFO ] 2020-05-16 12:23:29.822 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 12:23:30.217 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 12:23:30.723 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 12:23:31.035 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 12:23:31.183 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 12:23:31.883 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 12:23:56.954 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 12:23:56.958 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 12:23:59.107 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-16 12:24:01.612 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 12:24:03.004 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 12:24:03.423 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 12:24:03.963 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 12:24:04.138 [main] DriverFactory - clicked on Register profile and navigating to second page for UK
+[INFO ] 2020-05-16 12:24:07.846 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 12:24:08.363 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-16 12:24:08.585 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 12:24:19.308 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 12:24:22.518 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 12:24:22.518 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 12:24:24.669 [main] DriverFactory - Getting the details from excel file
+[INFO ] 2020-05-16 12:24:24.678 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-16 12:24:27.177 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 12:24:28.913 [main] DriverFactory - selected gender which is applicable only for Germany and Spain
+[INFO ] 2020-05-16 12:24:29.201 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 12:24:29.587 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 12:24:30.081 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 12:24:30.683 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 12:24:31.175 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-16 12:24:31.323 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 12:24:42.033 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 12:24:45.253 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 12:24:45.254 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 12:24:47.406 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-16 12:24:49.606 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 12:24:58.052 [main] DriverFactory - selected gender which is applicable only for Germany and Spain
+[INFO ] 2020-05-16 12:24:58.326 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 12:24:58.722 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 12:24:59.196 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 12:24:59.495 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 12:24:59.679 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 12:25:10.402 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 14:23:16.134 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 14:23:16.137 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 14:23:18.278 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-16 14:23:21.310 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 14:23:22.641 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 14:23:22.866 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 14:23:24.646 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 14:23:27.759 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 14:23:27.759 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 14:25:29.730 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 14:25:29.732 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 14:25:31.887 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-16 14:25:33.897 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 14:25:35.221 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 14:25:35.485 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 14:25:35.603 [main] DriverFactory - clicked on Register profile,before entering the DOB to validate mandatory field check
+[INFO ] 2020-05-16 14:25:35.943 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 14:25:36.039 [main] DriverFactory - clicked on Register profile and navigating to second page for UK
+[INFO ] 2020-05-16 14:25:39.349 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 14:25:39.622 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-16 14:25:39.756 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 14:25:50.405 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 14:25:53.498 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 14:25:53.498 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 14:25:55.625 [main] DriverFactory - Getting the details from excel file
+[INFO ] 2020-05-16 14:25:55.630 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-16 14:25:57.274 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 14:25:58.527 [main] DriverFactory - selected gender which is applicable only for Germany and Spain
+[INFO ] 2020-05-16 14:25:58.750 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 14:25:58.989 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 14:25:59.307 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 14:25:59.665 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 14:26:00.016 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-16 14:26:00.105 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 14:26:10.764 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 14:26:13.859 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 14:26:13.859 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 14:47:28.138 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 14:47:28.140 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 14:47:30.286 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-16 14:47:32.213 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 14:47:33.568 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 14:47:33.799 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 14:47:33.917 [main] DriverFactory - clicked on Register profile, before entering the DOB to validate mandatory field check
+[INFO ] 2020-05-16 14:47:34.217 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-16 14:47:34.217 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 14:47:34.309 [main] DriverFactory - clicked on Register profile and navigating to second page for UK
+[INFO ] 2020-05-16 14:47:37.468 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 14:47:37.755 [main] DriverFactory - entered address, city and pincode
+[INFO ] 2020-05-16 14:47:37.879 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 14:47:39.630 [main] DriverFactory - Sucessfully registered message is displayed in the page
+[INFO ] 2020-05-16 14:47:50.281 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 14:47:53.388 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 14:47:53.389 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 14:47:55.518 [main] DriverFactory - Getting the details from excel file
+[INFO ] 2020-05-16 14:47:55.521 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-16 14:47:57.389 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 14:48:04.905 [main] DriverFactory - selected gender which is applicable only for Germany and Spain
+[INFO ] 2020-05-16 14:48:05.081 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 14:48:05.300 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 14:48:07.120 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-16 14:48:10.216 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-16 14:48:10.216 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-16 14:48:12.343 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-16 14:48:13.916 [main] DriverFactory - clicked on registration link
+[INFO ] 2020-05-16 14:48:14.950 [main] DriverFactory - selected gender which is applicable only for Germany and Spain
+[INFO ] 2020-05-16 14:48:15.117 [main] DriverFactory - email entered
+[INFO ] 2020-05-16 14:48:15.338 [main] DriverFactory - password entered
+[INFO ] 2020-05-16 14:48:15.472 [main] DriverFactory - clicked on Register profile, before entering the DOB to validate mandatory field check
+[INFO ] 2020-05-16 14:48:15.753 [main] DriverFactory - User is not able to register without entering mandatory field
+[INFO ] 2020-05-16 14:48:15.753 [main] DriverFactory - DOB entered
+[INFO ] 2020-05-16 14:48:15.924 [main] DriverFactory - entered firstname and lastname
+[INFO ] 2020-05-16 14:48:16.016 [main] DriverFactory - clicked submit button of registration page
+[INFO ] 2020-05-16 14:49:17.812 [main] DriverFactory - Closing browser

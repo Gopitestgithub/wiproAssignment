@@ -1,0 +1,493 @@
+[INFO ] 2020-05-14 00:02:24.318 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:02:27.963 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:02:30.514 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:04:06.610 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:04:10.392 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:04:12.997 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:05:29.187 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:05:32.876 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:05:35.478 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:11:22.117 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:11:26.285 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:11:28.941 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:13:06.820 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:13:10.739 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:13:13.448 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:15:41.962 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:15:45.912 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:15:48.835 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:17:06.909 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:17:10.681 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:17:13.326 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:39:28.915 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:39:33.098 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:39:36.060 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:41:54.241 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:41:58.701 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:42:01.646 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:42:59.285 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:43:03.469 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:43:06.368 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:44:54.029 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:44:58.152 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:45:01.108 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:46:49.835 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:46:53.931 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:46:56.871 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:52:19.867 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:52:24.205 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:52:27.269 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:56:07.149 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:56:11.473 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:56:14.559 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:56:22.065 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 00:56:22.067 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:56:25.291 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:56:34.454 [main] DriverFactory - Entered Date Of Birth
+[INFO ] 2020-05-14 00:56:35.179 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 00:56:35.181 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:56:38.357 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:56:46.910 [main] DriverFactory - Drag and Dropped the item
+[INFO ] 2020-05-14 00:56:46.933 [main] DriverFactory - Verified the text
+[INFO ] 2020-05-14 00:56:47.658 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 00:56:47.659 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:56:50.830 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:56:53.063 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:56:58.562 [main] DriverFactory - Entered the values from the excel
+[INFO ] 2020-05-14 00:56:58.721 [main] DriverFactory - Opened google link in the new tab
+[INFO ] 2020-05-14 00:56:58.879 [main] DriverFactory - Opened google link is here in the new tab
+[INFO ] 2020-05-14 00:56:59.043 [main] DriverFactory - Clicked on submit button
+[INFO ] 2020-05-14 00:56:59.728 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 00:56:59.729 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:57:02.933 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:57:05.137 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 00:57:11.843 [main] DriverFactory - Entered the details from the excel
+[INFO ] 2020-05-14 00:57:12.957 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 00:57:12.958 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 00:57:16.256 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 00:57:24.400 [main] DriverFactory - Item 1
+[INFO ] 2020-05-14 00:57:24.505 [main] DriverFactory - Item 2
+[INFO ] 2020-05-14 00:57:24.616 [main] DriverFactory - Item 3
+[INFO ] 2020-05-14 00:57:24.730 [main] DriverFactory - Item 4
+[INFO ] 2020-05-14 00:57:24.830 [main] DriverFactory - Item 5
+[INFO ] 2020-05-14 00:57:24.927 [main] DriverFactory - Item 6
+[INFO ] 2020-05-14 00:57:25.049 [main] DriverFactory - Item 7
+[INFO ] 2020-05-14 00:57:25.750 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:03:28.741 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:03:32.909 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:03:35.995 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:08:22.681 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:08:27.070 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:08:30.167 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:08:37.169 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:08:37.171 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:08:40.313 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:08:48.773 [main] DriverFactory - Entered Date Of Birth
+[INFO ] 2020-05-14 11:08:49.507 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:08:49.508 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:08:52.697 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:20:29.663 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:20:33.988 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:20:36.909 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:20:44.120 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:20:44.124 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:20:47.308 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:20:58.963 [main] DriverFactory - Entered Date Of Birth
+[INFO ] 2020-05-14 11:20:59.718 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:20:59.720 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:21:02.920 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:21:11.189 [main] DriverFactory - Drag and Dropped the item
+[INFO ] 2020-05-14 11:21:11.210 [main] DriverFactory - Verified the text
+[INFO ] 2020-05-14 11:21:11.924 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:21:11.927 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:21:15.143 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:21:17.376 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:21:23.217 [main] DriverFactory - Entered the values from the excel
+[INFO ] 2020-05-14 11:21:23.442 [main] DriverFactory - Opened google link in the new tab
+[INFO ] 2020-05-14 11:21:23.589 [main] DriverFactory - Opened google link is here in the new tab
+[INFO ] 2020-05-14 11:21:23.804 [main] DriverFactory - Clicked on submit button
+[INFO ] 2020-05-14 11:21:24.501 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:21:24.502 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:21:27.915 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:21:30.115 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:21:39.236 [main] DriverFactory - Entered the details from the excel
+[INFO ] 2020-05-14 11:21:39.908 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:21:39.910 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:21:43.067 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:21:51.173 [main] DriverFactory - Item 1
+[INFO ] 2020-05-14 11:21:51.275 [main] DriverFactory - Item 2
+[INFO ] 2020-05-14 11:21:51.364 [main] DriverFactory - Item 3
+[INFO ] 2020-05-14 11:21:51.451 [main] DriverFactory - Item 4
+[INFO ] 2020-05-14 11:21:51.540 [main] DriverFactory - Item 5
+[INFO ] 2020-05-14 11:21:51.627 [main] DriverFactory - Item 6
+[INFO ] 2020-05-14 11:21:51.721 [main] DriverFactory - Item 7
+[INFO ] 2020-05-14 11:21:52.830 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:26:31.677 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:26:36.086 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:26:38.977 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:26:44.955 [main] DriverFactory - Test failed for RentalCar
+[INFO ] 2020-05-14 11:26:45.496 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-14 11:26:46.159 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:26:46.163 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:26:49.364 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:26:58.086 [main] DriverFactory - Entered Date Of Birth
+[INFO ] 2020-05-14 11:26:58.802 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:26:58.805 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:27:02.013 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:27:10.580 [main] DriverFactory - Drag and Dropped the item
+[INFO ] 2020-05-14 11:27:10.615 [main] DriverFactory - Verified the text
+[INFO ] 2020-05-14 11:27:11.338 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:27:11.339 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:27:14.571 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:27:16.786 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:27:22.222 [main] DriverFactory - Entered the values from the excel
+[INFO ] 2020-05-14 11:27:22.406 [main] DriverFactory - Opened google link in the new tab
+[INFO ] 2020-05-14 11:27:22.527 [main] DriverFactory - Opened google link is here in the new tab
+[INFO ] 2020-05-14 11:27:22.635 [main] DriverFactory - Clicked on submit button
+[INFO ] 2020-05-14 11:27:23.292 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:27:23.293 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:27:26.443 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:27:28.687 [main] DriverFactory - Extracting the details from the excel
+[INFO ] 2020-05-14 11:27:34.823 [main] DriverFactory - Entered the details from the excel
+[INFO ] 2020-05-14 11:27:35.495 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 11:27:35.496 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 11:27:38.678 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 11:27:46.937 [main] DriverFactory - Item 1
+[INFO ] 2020-05-14 11:27:47.054 [main] DriverFactory - Item 2
+[INFO ] 2020-05-14 11:27:47.156 [main] DriverFactory - Item 3
+[INFO ] 2020-05-14 11:27:47.242 [main] DriverFactory - Item 4
+[INFO ] 2020-05-14 11:27:47.328 [main] DriverFactory - Item 5
+[INFO ] 2020-05-14 11:27:47.438 [main] DriverFactory - Item 6
+[INFO ] 2020-05-14 11:27:47.527 [main] DriverFactory - Item 7
+[INFO ] 2020-05-14 11:27:48.188 [main] DriverFactory - Closing the driver
+[INFO ] 2020-05-14 14:00:52.022 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:00:52.026 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:00:54.856 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:00:57.960 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:00:57.961 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:01:00.737 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:01:03.885 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:01:03.885 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:01:06.692 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:01:09.788 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:01:09.788 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:01:12.556 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:12:49.474 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:12:49.477 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:12:51.630 [main] DriverFactory - url launched: null
+[INFO ] 2020-05-14 14:12:52.348 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:12:55.491 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:12:55.491 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:12:57.637 [main] DriverFactory - url launched: null
+[INFO ] 2020-05-14 14:12:58.769 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:13:01.888 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:13:01.889 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:13:04.046 [main] DriverFactory - url launched: null
+[INFO ] 2020-05-14 14:13:05.152 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:13:08.239 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:13:08.239 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:13:10.404 [main] DriverFactory - url launched: null
+[INFO ] 2020-05-14 14:13:11.028 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:13:56.994 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:13:56.997 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:14:09.144 [main] DriverFactory - url launched: null
+[INFO ] 2020-05-14 14:14:09.799 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:14:12.920 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:14:12.920 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:16:37.440 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:16:37.443 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:16:49.604 [main] DriverFactory - url launched: null
+[INFO ] 2020-05-14 14:16:50.287 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:16:53.398 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:16:53.398 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:17:05.550 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 14:17:06.217 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:17:09.257 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:17:09.257 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:21:39.949 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:21:39.953 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:21:42.136 [main] DriverFactory - url launched: null
+[INFO ] 2020-05-14 14:21:42.779 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:21:45.922 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:21:45.922 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:21:48.068 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 14:21:48.740 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:59:39.114 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:59:39.117 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:59:41.280 [main] DriverFactory - url launched: null
+[INFO ] 2020-05-14 14:59:41.929 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 14:59:45.141 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 14:59:45.142 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 14:59:47.279 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 14:59:47.928 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 15:02:49.691 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 15:02:49.694 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 15:02:51.842 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 15:02:52.502 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 15:02:55.684 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 15:02:55.684 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 15:02:57.857 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 15:02:58.487 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 15:03:01.595 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 15:03:01.595 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 15:03:03.746 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 15:03:04.398 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 15:03:07.513 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 15:03:07.514 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 15:03:09.660 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 15:03:10.293 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 18:52:39.549 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 18:52:39.554 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 18:52:41.723 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 18:52:42.432 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 18:52:45.591 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 18:52:45.592 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 18:52:47.772 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 18:52:48.409 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 18:52:51.635 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 18:52:51.635 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 18:52:53.800 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 18:52:54.451 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 18:52:57.648 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 18:52:57.649 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 18:52:59.819 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 18:53:00.476 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 18:54:40.565 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 18:54:40.570 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 18:54:42.761 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 18:54:43.413 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 18:54:46.601 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 18:54:46.601 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 18:54:48.793 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 18:54:49.446 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:00:41.740 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:00:41.746 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:00:43.965 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 19:00:44.657 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:00:44.684 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:00:44.690 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:00:44.694 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:01:33.427 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:01:33.433 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:01:35.612 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 19:01:36.441 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:01:36.468 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:01:36.479 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:01:36.485 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:02:22.669 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:02:22.675 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:02:24.881 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 19:02:24.911 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 19:02:24.929 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 19:02:24.953 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 19:02:25.595 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:05:30.381 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:05:30.387 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:05:32.558 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 19:05:35.787 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:05:35.787 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:05:37.940 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 19:05:41.228 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:05:41.229 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:05:43.382 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 19:05:46.688 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:05:46.688 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:05:48.825 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 19:05:49.846 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:06:43.840 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:06:43.846 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:06:46.005 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 19:06:46.688 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:06:49.856 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:06:49.857 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:06:51.999 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 19:06:52.947 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:06:56.100 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:06:56.101 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:06:58.269 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 19:06:58.922 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 19:07:02.106 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 19:07:02.106 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 19:07:04.245 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 19:07:04.909 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:15:50.956 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:15:50.961 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:15:53.115 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 20:15:53.817 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:15:56.966 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:15:56.966 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:15:59.105 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 20:15:59.786 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:16:02.980 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:16:02.980 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:16:05.128 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 20:16:06.180 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:16:09.358 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:16:09.358 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:16:11.537 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 20:16:12.238 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:23:44.277 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:23:44.281 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:23:46.435 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 20:23:51.787 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:23:54.999 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:23:54.999 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:23:57.142 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 20:24:07.863 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:24:11.033 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:24:11.033 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:24:13.190 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 20:24:23.945 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:24:27.108 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:24:27.109 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:24:29.272 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 20:24:40.027 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:40:16.723 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:40:16.729 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:40:18.907 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 20:40:32.917 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:40:36.120 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:40:36.121 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:40:38.308 [main] DriverFactory - url launched: https://www.olay.com.cn/
+[INFO ] 2020-05-14 20:40:49.041 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:40:52.199 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:40:52.200 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:40:54.383 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 20:41:07.848 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:41:11.055 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:41:11.056 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:41:13.198 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 20:41:26.167 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:46:13.079 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:46:13.086 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:46:15.267 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 20:46:36.234 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:46:39.392 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:46:39.393 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:47:16.587 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:47:16.593 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:47:18.797 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 20:47:39.134 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:48:31.459 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:48:31.466 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:48:33.618 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 20:48:53.979 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:48:57.164 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:48:57.165 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:48:59.339 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 20:49:19.480 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:49:22.679 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:49:22.679 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:49:24.857 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 20:49:45.162 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:56:25.934 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:56:25.938 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:56:28.089 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 20:56:48.085 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 20:56:48.643 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-14 20:56:49.328 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:56:52.531 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:56:52.532 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:56:54.714 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 20:57:14.316 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 20:57:14.859 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-14 20:57:15.532 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 20:57:18.747 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 20:57:18.747 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 20:57:20.897 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 20:57:45.323 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 20:57:46.394 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-14 20:57:47.514 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:01:10.560 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:01:10.566 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:01:12.736 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 21:01:33.034 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:01:36.257 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:01:36.258 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:01:38.427 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 21:01:58.600 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:02:12.119 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:02:12.125 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:02:14.283 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 21:02:33.801 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 21:02:35.067 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:02:38.303 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:02:38.303 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:02:40.498 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 21:02:59.791 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 21:03:01.188 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:03:04.401 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:03:04.401 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:03:06.586 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 21:03:25.258 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 21:03:26.527 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:05:18.929 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:05:18.935 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:05:21.111 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 21:05:40.760 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 21:05:41.940 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:05:45.237 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:05:45.237 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:05:47.418 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 21:06:06.203 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 21:06:07.426 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:06:10.542 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:06:10.542 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:06:12.682 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 21:06:31.490 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 21:06:32.612 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:07:25.613 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:07:25.617 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:07:38.748 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:07:38.755 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:07:40.914 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 21:08:00.751 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 21:08:01.383 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-14 21:08:02.049 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:08:05.204 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:08:05.205 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:08:07.385 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 21:08:26.032 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 21:08:26.555 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-14 21:08:27.234 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:08:30.381 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:08:30.381 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:08:32.544 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 21:08:51.146 [main] DriverFactory - Test failed for userRegister
+[INFO ] 2020-05-14 21:08:51.764 [main] DriverFactory - Screenshot available in 'reports' folder
+[INFO ] 2020-05-14 21:08:52.433 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:37:02.198 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:37:02.205 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:37:04.357 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 21:37:26.128 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:37:29.513 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:37:29.514 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:39:00.177 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:39:00.186 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:39:02.374 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 21:39:23.242 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:39:26.597 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:39:26.597 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:39:28.766 [main] DriverFactory - url launched: https://www.olaz.de/de-de
+[INFO ] 2020-05-14 21:39:49.608 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:39:53.037 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:39:53.038 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:39:55.199 [main] DriverFactory - url launched: https://www.olay.es/es-es
+[INFO ] 2020-05-14 21:40:15.172 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:44:16.743 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:44:16.746 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:44:18.895 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 21:44:39.080 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 21:44:42.207 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:44:42.207 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:45:26.297 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 21:45:26.300 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 21:45:28.444 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 21:45:48.546 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 22:06:57.523 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 22:06:57.529 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 22:06:59.682 [main] DriverFactory - url launched: https://www.olay.co.uk/en-gb
+[INFO ] 2020-05-14 22:07:20.756 [main] DriverFactory - Closing browser
+[INFO ] 2020-05-14 22:07:23.886 [main] DriverFactory - Driver is initialized
+[INFO ] 2020-05-14 22:07:23.886 [main] DriverFactory - Launching Chrome browser
+[INFO ] 2020-05-14 22:07:26.201 [main] DriverFactory - url launched: https://www.olaz.de/de-de

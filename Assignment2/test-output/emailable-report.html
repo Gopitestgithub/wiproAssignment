@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="8">Suite</th></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">6</td><td class="num">0</td><td class="num">0</td><td class="num attn">2</td><td class="num">274,657</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">SDETSelenium.Assignment2.Olay_Test</td><td><a href="#m0">forgot_pwd</a></td><td rowspan="1">1590001161444</td><td rowspan="1">65290</td></tr><tr class="failedeven"><td><a href="#m1">valid_user_Registration</a></td><td rowspan="1">1590001313966</td><td rowspan="1">67182</td></tr><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="6">SDETSelenium.Assignment2.Olay_Test</td><td><a href="#m2">invalid_signin</a></td><td rowspan="1">1590001233285</td><td rowspan="1">19052</td></tr><tr class="passedeven"><td><a href="#m3">signin</a></td><td rowspan="2">1590001271838</td><td rowspan="2">7619</td></tr><tr class="passedeven"><td><a href="#m4">signin</a></td></tr><tr class="passedeven"><td><a href="#m5">valid_user_Registration</a></td><td rowspan="3">1590001387596</td><td rowspan="3">17643</td></tr><tr class="passedeven"><td><a href="#m6">valid_user_Registration</a></td></tr><tr class="passedeven"><td><a href="#m7">valid_user_Registration</a></td></tr></tbody>
+</table>
+<h2>Test</h2><h3 id="m0">SDETSelenium.Assignment2.Olay_Test#forgot_pwd</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(@id,&apos;ErrorMessage&apos;)] (tried for 50 second(s) with 500 milliseconds interval)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;MAKKUZZ&apos;, ip: &apos;192.168.1.15&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_241&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.20 (f006328e39a97..., userDataDir: C:\Users\Gopi\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60987}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 43c77926cd245b272039a49d3033f07a
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at Pages.Homepage.emailConfirmationError(Homepage.java:96)
+	at SDETSelenium.Assignment2.Olay_Test.forgot_pwd(Olay_Test.java:199)
+	at java.util.ArrayList.forEach(Unknown Source)
+... Removed 27 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">SDETSelenium.Assignment2.Olay_Test#valid_user_Registration</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th><th>Parameter #7</th><th>Parameter #8</th><th>Parameter #9</th><th>Parameter #10</th><th>Parameter #11</th><th>Parameter #12</th></tr><tr class="param stripe"><td>https://www.olaz.de/de-de</td><td>uname3@gmail.com</td><td>1234567g</td><td>Germany</td><td>Syam</td><td>B</td><td>Wipro</td><td>Bangalore</td><td>14000</td><td>29/04/1991</td><td>Deutschland</td><td>New</td></tr><tr><th colspan="12">Exception</th></tr><tr><td colspan="12"><div class="stacktrace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[@id=&apos;phdesktopbody_0_Header&apos;] (tried for 50 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at Pages.SignUpPage.registrationcomplete(SignUpPage.java:128)
+	at SDETSelenium.Assignment2.Olay_Test.valid_user_Registration(Olay_Test.java:114)
+	at java.util.ArrayList.forEach(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//h1[@id=&apos;phdesktopbody_0_Header&apos;]&quot;}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;MAKKUZZ&apos;, ip: &apos;192.168.1.15&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_241&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.20 (f006328e39a97..., userDataDir: C:\Users\Gopi\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61341}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b4045ea9d3e0ad311e1821565247ab9f
+*** Element info: {Using=xpath, value=//h1[@id=&apos;phdesktopbody_0_Header&apos;]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 30 more
+... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">SDETSelenium.Assignment2.Olay_Test#invalid_signin</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">SDETSelenium.Assignment2.Olay_Test#signin</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th></tr><tr class="param stripe"><td>https://www.olay.es/es-es</td><td>sheeja1212@gmail.com</td><td>1234567g</td><td>spain</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">SDETSelenium.Assignment2.Olay_Test#signin</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th></tr><tr class="param stripe"><td>https://www.olay.co.uk/en-gb</td><td>gopi1212@gmail.com</td><td>1234567g</td><td>uk</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">SDETSelenium.Assignment2.Olay_Test#valid_user_Registration</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th><th>Parameter #7</th><th>Parameter #8</th><th>Parameter #9</th><th>Parameter #10</th><th>Parameter #11</th><th>Parameter #12</th></tr><tr class="param stripe"><td>https://www.olay.es/es-es</td><td>47178sheeja@gmail.com</td><td>1234567g</td><td>Spain</td><td>Sheeja</td><td>G</td><td>Wipro</td><td>Chennai</td><td>600125</td><td>08/04/1991</td><td>NA</td><td>New</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">SDETSelenium.Assignment2.Olay_Test#valid_user_Registration</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th><th>Parameter #7</th><th>Parameter #8</th><th>Parameter #9</th><th>Parameter #10</th><th>Parameter #11</th><th>Parameter #12</th></tr><tr class="param stripe"><td>https://www.olay.co.uk/en-gb</td><td>gk47178@gmail.com</td><td>1234567g</td><td>UK</td><td>Gopi</td><td>Krishna</td><td>Wipro</td><td>Bangalore</td><td>562125</td><td>29/04/1991</td><td>NA</td><td>New</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">SDETSelenium.Assignment2.Olay_Test#valid_user_Registration</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th><th>Parameter #7</th><th>Parameter #8</th><th>Parameter #9</th><th>Parameter #10</th><th>Parameter #11</th><th>Parameter #12</th></tr><tr class="param stripe"><td>https://www.olay.co.uk/en-gb</td><td>gk47178@gmail.com</td><td>1234567g</td><td>UK</td><td>Gopi</td><td>Krishna</td><td>Wipro</td><td>Bangalore</td><td>562125</td><td>29/04/1991</td><td>NA</td><td>Existing</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Resources.Listners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="SDETSelenium.Assignment2.Olay_Test">
+        <methods>
+          <include name="forgot_pwd"/>
+          <include name="tearDown"/>
+          <include name="valid_user_Registration" invocation-numbers="1"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- SDETSelenium.Assignment2.Olay_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="8" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="274657" started-at="2020-05-21T00:29:15 IST" finished-at="2020-05-21T00:33:50 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="274657" started-at="2020-05-21T00:29:15 IST" finished-at="2020-05-21T00:33:50 IST">
+      <class name="SDETSelenium.Assignment2.Olay_Test">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="initializeBrowser" is-config="true" duration-ms="6050" started-at="2020-05-21T00:29:15 IST" finished-at="2020-05-21T00:29:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="FAIL" signature="forgot_pwd()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="forgot_pwd" duration-ms="65290" started-at="2020-05-21T00:29:21 IST" finished-at="2020-05-21T00:30:26 IST">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(@id,'ErrorMessage')] (tried for 50 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAKKUZZ', ip: '192.168.1.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.20 (f006328e39a97..., userDataDir: C:\Users\Gopi\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60987}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 43c77926cd245b272039a49d3033f07a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(@id,'ErrorMessage')] (tried for 50 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAKKUZZ', ip: '192.168.1.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.20 (f006328e39a97..., userDataDir: C:\Users\Gopi\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60987}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 43c77926cd245b272039a49d3033f07a
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at Pages.Homepage.emailConfirmationError(Homepage.java:96)
+at SDETSelenium.Assignment2.Olay_Test.forgot_pwd(Olay_Test.java:199)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:821)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1214)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1136)
+at org.testng.TestNG.runSuites(TestNG.java:1066)
+at org.testng.TestNG.run(TestNG.java:1034)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgot_pwd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="tearDown" is-config="true" duration-ms="706" started-at="2020-05-21T00:30:27 IST" finished-at="2020-05-21T00:30:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="initializeBrowser" is-config="true" duration-ms="5329" started-at="2020-05-21T00:30:27 IST" finished-at="2020-05-21T00:30:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="invalid_signin()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="invalid_signin" duration-ms="19052" started-at="2020-05-21T00:30:33 IST" finished-at="2020-05-21T00:30:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid_signin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="tearDown" is-config="true" duration-ms="695" started-at="2020-05-21T00:30:52 IST" finished-at="2020-05-21T00:30:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="initializeBrowser" is-config="true" duration-ms="5269" started-at="2020-05-21T00:30:53 IST" finished-at="2020-05-21T00:30:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="signin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="signin" duration-ms="7575" started-at="2020-05-21T00:30:58 IST" data-provider="getsignindetails" finished-at="2020-05-21T00:31:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.olay.co.uk/en-gb]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gopi1212@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567g]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[uk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="tearDown" is-config="true" duration-ms="696" started-at="2020-05-21T00:31:05 IST" finished-at="2020-05-21T00:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="initializeBrowser" is-config="true" duration-ms="5238" started-at="2020-05-21T00:31:06 IST" finished-at="2020-05-21T00:31:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="signin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="signin" duration-ms="7619" started-at="2020-05-21T00:31:11 IST" data-provider="getsignindetails" finished-at="2020-05-21T00:31:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.olay.es/es-es]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sheeja1212@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567g]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[spain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="tearDown" is-config="true" duration-ms="693" started-at="2020-05-21T00:31:19 IST" finished-at="2020-05-21T00:31:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="initializeBrowser" is-config="true" duration-ms="5294" started-at="2020-05-21T00:31:20 IST" finished-at="2020-05-21T00:31:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="valid_user_Registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="valid_user_Registration" duration-ms="22437" started-at="2020-05-21T00:31:25 IST" data-provider="getUrl" finished-at="2020-05-21T00:31:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.olay.co.uk/en-gb]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gk47178@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567g]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[UK]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Gopi]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Krishna]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wipro]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[562125]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[29/04/1991]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_user_Registration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="tearDown" is-config="true" duration-ms="712" started-at="2020-05-21T00:31:47 IST" finished-at="2020-05-21T00:31:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="initializeBrowser" is-config="true" duration-ms="5320" started-at="2020-05-21T00:31:48 IST" finished-at="2020-05-21T00:31:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="FAIL" signature="valid_user_Registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="valid_user_Registration" duration-ms="67182" started-at="2020-05-21T00:31:53 IST" data-provider="getUrl" finished-at="2020-05-21T00:33:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.olaz.de/de-de]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[uname3@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567g]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Germany]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Syam]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wipro]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[14000]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[29/04/1991]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Deutschland]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //h1[@id='phdesktopbody_0_Header'] (tried for 50 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[@id='phdesktopbody_0_Header'] (tried for 50 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at Pages.SignUpPage.registrationcomplete(SignUpPage.java:128)
+at SDETSelenium.Assignment2.Olay_Test.valid_user_Registration(Olay_Test.java:114)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:821)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1214)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1136)
+at org.testng.TestNG.runSuites(TestNG.java:1066)
+at org.testng.TestNG.run(TestNG.java:1034)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[@id='phdesktopbody_0_Header']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAKKUZZ', ip: '192.168.1.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.20 (f006328e39a97..., userDataDir: C:\Users\Gopi\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61341}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b4045ea9d3e0ad311e1821565247ab9f
+*** Element info: {Using=xpath, value=//h1[@id='phdesktopbody_0_Header']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 30 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_user_Registration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="tearDown" is-config="true" duration-ms="749" started-at="2020-05-21T00:33:01 IST" finished-at="2020-05-21T00:33:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="initializeBrowser" is-config="true" duration-ms="5243" started-at="2020-05-21T00:33:02 IST" finished-at="2020-05-21T00:33:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="valid_user_Registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="valid_user_Registration" duration-ms="17643" started-at="2020-05-21T00:33:07 IST" data-provider="getUrl" finished-at="2020-05-21T00:33:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.olay.es/es-es]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[47178sheeja@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567g]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Spain]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sheeja]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[G]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wipro]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[600125]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[08/04/1991]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_user_Registration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="tearDown" is-config="true" duration-ms="689" started-at="2020-05-21T00:33:25 IST" finished-at="2020-05-21T00:33:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="initializeBrowser" is-config="true" duration-ms="5290" started-at="2020-05-21T00:33:25 IST" finished-at="2020-05-21T00:33:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="valid_user_Registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="valid_user_Registration" duration-ms="18106" started-at="2020-05-21T00:33:31 IST" data-provider="getUrl" finished-at="2020-05-21T00:33:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.olay.co.uk/en-gb]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gk47178@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567g]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[UK]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Gopi]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Krishna]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wipro]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[562125]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[29/04/1991]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Existing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_user_Registration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SDETSelenium.Assignment2.Olay_Test@201a4587]" name="tearDown" is-config="true" duration-ms="681" started-at="2020-05-21T00:33:49 IST" finished-at="2020-05-21T00:33:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SDETSelenium.Assignment2.Olay_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
